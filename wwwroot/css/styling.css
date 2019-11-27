@@ -1,0 +1,14 @@
+body{
+    margin: auto;
+    text-align: center;
+}
+#wrapper{
+    margin: auto;
+}
+.box1{
+    border-radius: 25px;
+    border: 5px solid black;
+    width: 400px;
+    padding: 20px;
+    display: inline-block;
+}
